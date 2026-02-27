@@ -1,2 +1,6 @@
 # neo-snake
-colorfull snake animtion, 50x50 matrix!
+colorfull snake animtion, x*y matrix!
+
+[.](./image.png)
+
+[.](./image%20copy.png)
